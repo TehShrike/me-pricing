@@ -1,0 +1,6 @@
+- [ ] deploy a CF worker on some domain to make prove I can
+- [ ] write a parser for Menards html
+- [ ] write a parser for Lowes html
+- [ ] write a CF worker that uses both parsers to return prices for the 7 product types
+- [ ] write a page that pulls from the worker and displays the data
+- [ ] get the page displayed on GH Pages
